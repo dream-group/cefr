@@ -1,0 +1,14 @@
+{
+    "name": "dream-group/cefr",
+    "description": "CEFR (Common European Framework of Reference for Languages) operations.",
+	"keywords": ["cefr", "common", "european", "framework", "reference", "languages"],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Dream\\": "src"
+        }
+    }
+}
