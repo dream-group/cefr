@@ -1,4 +1,4 @@
-# Cefr
+# CEFR
 CEFR (Common European Framework of Reference for Languages) operations.
 
 This class helps to do arithmetic on CEFR language proficecy values, e.g take the average of, for example, B2 and C1 (see example below).
