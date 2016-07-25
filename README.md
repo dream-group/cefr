@@ -8,6 +8,7 @@ This class helps to do arithmetic on CEFR language proficecy values, e.g take th
 More information about CEFR:
 https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages
 
+
 Example:
 
 ```php
